@@ -1,0 +1,3 @@
+[submodule "togetherjs"]
+	path = togetherjs
+	url = git@github.com:mozilla/togetherjs.git
